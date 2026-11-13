@@ -2,11 +2,11 @@
 ## Title: NextLevelReborn
 ## Notes: How many more kills / quests / rep gains to your next level or standing. Remake of the 2019 Classic Nextlevel addon, rebuilt for Midnight Season 2 (12.1.5).
 ## Author: Deoxizn
-## Version: 2.1.1
+## Version: 2.1.2
 ## SavedVariables: NextLevelRebornDB
 ## IconTexture: Interface\Icons\INV_Misc_QuestionMark
 ## X-Category: Quests & Leveling
 ## X-Website: https://www.wowinterface.com/downloads/info25334-Nextlevel-Classic.html
-## X-Wago-ID: as3Dfg57
+## X-Wago-ID: qGYBbRNg
 
 NextLevelReborn.lua
