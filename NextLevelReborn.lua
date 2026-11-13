@@ -1,4 +1,4 @@
--- NextLevelReborn 2.1.0
+-- NextLevelReborn 2.1.1
 -- Remake of Nextlevel - Classic (WoWInterface, 2019-09-20, Classic 1.13.2)
 -- Original idea: after any XP or reputation gain, print how many more
 -- gains like that one you need to level up / reach the next standing.
